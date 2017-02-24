@@ -9,6 +9,7 @@ from functools import reduce
 import tarfile
 import numpy as np
 import re
+import numpy as np
 
 
 def tokenize(sent):
